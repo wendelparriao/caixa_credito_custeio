@@ -1,0 +1,81 @@
+@charset "UTF-8";
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#banner {
+    position: relative;
+    width: 1140px;
+    height: 250px;
+    overflow: hidden;
+    background: #8fbfca;
+}
+
+#i01 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 1;
+}
+
+#i02 {
+    position: absolute;
+    left: -200px;
+    top: 0;
+    opacity: 0;
+}
+
+#i03 {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    opacity: 0;
+}
+
+#i04 {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    opacity: 0;
+}
+#i04-1 {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    opacity: 0;
+}
+
+#i05 {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    opacity: 0;
+}
+#i05-1 {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    opacity: 0;
+}
+
+#i06 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+#i07 {
+    position: absolute;
+    left: -40px;
+    top: 0;
+    opacity: 0;
+}
+
+#i08 {
+    position: absolute;
+    left: -40px;
+    top: 0;
+    opacity: 0;
+}
